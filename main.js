@@ -79,7 +79,7 @@ function translateToArabic() {
     document.getElementById('productsLink').textContent = 'المنتجات';
     document.getElementById('aboutLink').textContent = 'عن المتجر';
     document.getElementById('contactLink').textContent = 'اتصل بنا';
-    document.getElementById('pageTitle').textContent = 'متجر الساعات';
+    document.getElementById('pageTitle').textContent = 'اكتشف موقعنا';
    
    
     document.getElementById('textAboutWatch').textContent = 'ساعة Apple Watch هي ساعة ذكية شهيرة طورتها شركة Apple Inc. وهي تقدم مجموعة من الميزات وتأتي في نماذج مختلفة، كل منها مزود بمجموعة من الإمكانات الخاصة به مثل تتبع الصحة واللياقة البدنية، ومراقبة تخطيط القلب والأكسجين في الدم، والإشعارات والاتصالات، وApple Watch. يدفع. فيما يتعلق بالألوان، تقدم Apple خيارات ألوان مختلفة لأحزمة Apple Watch. وفيما يتعلق بالألوان، تقدم Apple خيارات ألوان مختلفة لأحزمة Apple Watch. يمكنك الاختيار من بين هذه العقيد';
@@ -90,7 +90,7 @@ function translateToEnglish() {
     document.getElementById('productsLink').textContent = 'Products';
     document.getElementById('aboutLink').textContent = 'About';
     document.getElementById('contactLink').textContent = 'Contact';
-    document.getElementById('pageTitle').textContent = 'Watch Store';
+    document.getElementById('pageTitle').textContent = 'discover our store';
   
     document.getElementById('textAboutWatch').textContent = 'The Apple Watch is a popular smartwatch developed by Apple Inc. It offers a range of features and comes in various models, each with its own set of capabilities such as Health and Fitness Tracking, ECG and Blood Oxygen Monitoring, Notifications and Communication, and Apple Pay. Regarding colors, Apple offers different color options for the Apple Watch bands.Regarding colors, Apple offers different color options for the Apple Watch bands. you can choose among these color';
 }
